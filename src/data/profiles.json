@@ -1,0 +1,2042 @@
+[
+  {
+    "id": 1,
+    "name": "Wesley Souza",
+    "avatar": "https://images.unsplash.com/photo-1661874117570-31e6b5ff325f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "São Paulo",
+    "skills": [
+      "Kubernetes",
+      "C#",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Liderança"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "DevOps Specialist",
+        "period": "2016 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Viagens"
+    ],
+    "bio": "Profissional com experiência em Kubernetes, C# e atuação em projetos de devops.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 2,
+    "name": "Rafaela Carvalho",
+    "avatar":"https://i.pravatar.cc/150?img=4",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "São Paulo",
+    "skills": [
+      "Docker",
+      "GraphQL",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Cybersecurity Specialist",
+        "period": "2018 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em Docker, GraphQL e atuação em projetos de cybersecurity.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 3,
+    "name": "Mauro Costa",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "Rio de Janeiro",
+    "skills": [
+      "Figma",
+      "Node.js",
+      "Azure"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Backend Specialist",
+        "period": "2016 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Fotografia"
+    ],
+    "bio": "Profissional com experiência em Figma, Node.js e atuação em projetos de backend.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 4,
+    "name": "Samuel Pereira",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15jDYKLAlmDe3k6FgmPSwZ-fzqo3Riphyyg&s",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Campinas",
+    "skills": [
+      "Docker",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Trabalho em equipe"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Mobile Specialist",
+        "period": "2018 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em Docker, Tailwind e atuação em projetos de mobile.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 5,
+    "name": "Igor Costa",
+    "avatar": "https://media.istockphoto.com/id/1319763895/pt/foto/smiling-mixed-race-mature-man-on-grey-background.jpg?s=612x612&w=0&k=20&c=koYrID-5Zg9y9BPWLsogJwVdExtqmUsjdJVlZ5S_BZU=",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Belo Horizonte",
+    "skills": [
+      "Azure",
+      "Docker",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Empresa B",
+        "title": "Mobile Specialist",
+        "period": "2017 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em Azure, Docker e atuação em projetos de mobile.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 6,
+    "name": "Isabela Moreira",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "Brasília",
+    "skills": [
+      "AWS",
+      "JavaScript",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Empresa B",
+        "title": "Data Science Specialist",
+        "period": "2020 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Viagens",
+      "Música"
+    ],
+    "bio": "Profissional com experiência em AWS, JavaScript e atuação em projetos de data science.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 7,
+    "name": "Wesley Gomes",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "role": "IoT Specialist",
+    "area": "IoT",
+    "city": "Recife",
+    "skills": [
+      "Python",
+      "SQL",
+      "C#"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Criatividade",
+      "Liderança"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "IoT Specialist",
+        "period": "2020 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Desenho",
+      "Música"
+    ],
+    "bio": "Profissional com experiência em Python, SQL e atuação em projetos de iot.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 8,
+    "name": "Henrique Oliveira",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "role": "IoT Specialist",
+    "area": "IoT",
+    "city": "Brasília",
+    "skills": [
+      "Tailwind",
+      "JavaScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "IoT Specialist",
+        "period": "2020 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Viagens",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em Tailwind, JavaScript e atuação em projetos de iot.",
+    "recommended": 4,
+    "messages": []
+  },
+  {
+    "id": 9,
+    "name": "Isabela Ribeiro",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "São Paulo",
+    "skills": [
+      "C#",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Backend Specialist",
+        "period": "2020 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Leitura",
+      "Jardinagem"
+    ],
+    "bio": "Profissional com experiência em C#, SQL e atuação em projetos de backend.",
+    "recommended": 4,
+    "messages": []
+  },
+  {
+    "id": 10,
+    "name": "Sofia Souza",
+    "avatar": "https://img.freepik.com/fotos-gratis/mulher-a-rir-se-na-cama_23-2147767605.jpg?semt=ais_hybrid&w=740&q=80",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "Curitiba",
+    "skills": [
+      "Docker",
+      "Python",
+      "Azure"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Liderança"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Cybersecurity Specialist",
+        "period": "2019 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Desenho",
+      "Fotografia"
+    ],
+    "bio": "Profissional com experiência em Docker, Python e atuação em projetos de cybersecurity.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 11,
+    "name": "Sofia Costa",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBoJJuHfWI-ztxGZhtSNHRaC1TQmviPgp-oA&s",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "Curitiba",
+    "skills": [
+      "JavaScript",
+      "Kubernetes",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Empresa B",
+        "title": "Data Science Specialist",
+        "period": "2021 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em JavaScript, Kubernetes e atuação em projetos de data science.",
+    "recommended": 4,
+    "messages": []
+  },
+  {
+    "id": 12,
+    "name": "Felipe Pereira",
+    "avatar": "https://i.pravatar.cc/150?img=13",
+    "role": "Product Specialist",
+    "area": "Product",
+    "city": "Brasília",
+    "skills": [
+      "GraphQL",
+      "Docker",
+      "Go"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Product Specialist",
+        "period": "2016 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Culinária",
+      "Jardinagem"
+    ],
+    "bio": "Profissional com experiência em GraphQL, Docker e atuação em projetos de product.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 13,
+    "name": "Carla Costa",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrc1ByKyPuRfdACbQJTZDHSOTV0HroTYQFA&s",
+    "role": "Product Specialist",
+    "area": "Product",
+    "city": "São Paulo",
+    "skills": [
+      "C#",
+      "Kubernetes",
+      "Go"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Product Specialist",
+        "period": "2016 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em C#, Kubernetes e atuação em projetos de product.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 14,
+    "name": "Isabela Martins",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5xGYXZuHqFL97KBuOdZ3fjHwFV6tmnXq4A&s",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "Fortaleza",
+    "skills": [
+      "C#",
+      "Python",
+      "Rust"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Data Science Specialist",
+        "period": "2018 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em C#, Python e atuação em projetos de data science.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 15,
+    "name": "Olivia Fernandes",
+    "avatar": "https://i.pravatar.cc/150?img=16",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "São Paulo",
+    "skills": [
+      "JavaScript",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Backend Specialist",
+        "period": "2017 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Cinema"
+    ],
+    "bio": "Profissional com experiência em JavaScript, Figma e atuação em projetos de backend.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 16,
+    "name": "Isabela Gomes",
+    "avatar": "https://i.pravatar.cc/150?img=17",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "Porto Alegre",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Comunicação"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Backend Specialist",
+        "period": "2019 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em TypeScript, Node.js e atuação em projetos de backend.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 17,
+    "name": "Paula Almeida",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "role": "Fullstack Specialist",
+    "area": "Fullstack",
+    "city": "São Paulo",
+    "skills": [
+      "Figma",
+      "React",
+      "C#"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Empresa B",
+        "title": "Fullstack Specialist",
+        "period": "2017 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Viagens",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em Figma, React e atuação em projetos de fullstack.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 18,
+    "name": "Bruno Carvalho",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "role": "Frontend Specialist",
+    "area": "Frontend",
+    "city": "Brasília",
+    "skills": [
+      "AWS",
+      "JavaScript",
+      "Go"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Frontend Specialist",
+        "period": "2016 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Desenho",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em AWS, JavaScript e atuação em projetos de frontend.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 19,
+    "name": "Vitor Souza",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "role": "UX/UI Specialist",
+    "area": "UX/UI",
+    "city": "Porto Alegre",
+    "skills": [
+      "Node.js",
+      "Kubernetes",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "UX/UI Specialist",
+        "period": "2017 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em Node.js, Kubernetes e atuação em projetos de ux/ui.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 20,
+    "name": "Isabela Almeida",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "Belo Horizonte",
+    "skills": [
+      "TypeScript",
+      "AWS",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "DevOps Specialist",
+        "period": "2017 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em TypeScript, AWS e atuação em projetos de devops.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 21,
+    "name": "Eduarda Moreira",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSA3OviduQvOeVYX-OfeyNspRRlpxmG1amQ&s",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "Salvador",
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Backend Specialist",
+        "period": "2018 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em Kubernetes, Azure e atuação em projetos de backend.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 22,
+    "name": "Isabela Souza",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "Rio de Janeiro",
+    "skills": [
+      "Python",
+      "SQL",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Trabalho em equipe"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Cybersecurity Specialist",
+        "period": "2018 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Música"
+    ],
+    "bio": "Profissional com experiência em Python, SQL e atuação em projetos de cybersecurity.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 23,
+    "name": "Wesley Almeida",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "role": "Frontend Specialist",
+    "area": "Frontend",
+    "city": "Curitiba",
+    "skills": [
+      "React",
+      "AWS",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Frontend Specialist",
+        "period": "2016 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em React, AWS e atuação em projetos de frontend.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 24,
+    "name": "Renato Rocha",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "Belo Horizonte",
+    "skills": [
+      "JavaScript",
+      "Azure",
+      "Python"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Cybersecurity Specialist",
+        "period": "2017 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Culinária"
+    ],
+    "bio": "Profissional com experiência em JavaScript, Azure e atuação em projetos de cybersecurity.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 25,
+    "name": "Diego Costa",
+    "avatar": "https://i.pravatar.cc/150?img=26",
+    "role": "UX/UI Specialist",
+    "area": "UX/UI",
+    "city": "Brasília",
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "Django"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Adaptabilidade"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "UX/UI Specialist",
+        "period": "2022 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em Python, Kubernetes e atuação em projetos de ux/ui.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 26,
+    "name": "Felipe Dias",
+    "avatar": "https://i.pravatar.cc/150?img=27",
+    "role": "UX/UI Specialist",
+    "area": "UX/UI",
+    "city": "Rio de Janeiro",
+    "skills": [
+      "JavaScript",
+      "Rust",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Adaptabilidade",
+      "Trabalho em equipe"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "UX/UI Specialist",
+        "period": "2021 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em JavaScript, Rust e atuação em projetos de ux/ui.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 27,
+    "name": "Karina Pereira",
+    "avatar": "https://i.pravatar.cc/150?img=28",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "Rio de Janeiro",
+    "skills": [
+      "Azure",
+      "Go",
+      "Figma"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Empresa B",
+        "title": "DevOps Specialist",
+        "period": "2020 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em Azure, Go e atuação em projetos de devops.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 28,
+    "name": "Diego Carvalho",
+    "avatar": "https://i.pravatar.cc/150?img=29",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Recife",
+    "skills": [
+      "AWS",
+      "GraphQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Proatividade"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Mobile Specialist",
+        "period": "2020 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Fotografia"
+    ],
+    "bio": "Profissional com experiência em AWS, GraphQL e atuação em projetos de mobile.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 29,
+    "name": "Luna Rocha",
+    "avatar": "https://i.pravatar.cc/150?img=30",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Porto Alegre",
+    "skills": [
+      "GraphQL",
+      "Tailwind",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Mobile Specialist",
+        "period": "2018 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em GraphQL, Tailwind e atuação em projetos de mobile.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 30,
+    "name": "João Ribeiro",
+    "avatar": "https://i.pravatar.cc/150?img=31",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "Belo Horizonte",
+    "skills": [
+      "GraphQL",
+      "Figma",
+      "Django"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Data Science Specialist",
+        "period": "2018 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Viagens",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em GraphQL, Figma e atuação em projetos de data science.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 31,
+    "name": "Bianca Carvalho",
+    "avatar": "https://i.pravatar.cc/150?img=32",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Campinas",
+    "skills": [
+      "TypeScript",
+      "C#",
+      "Go"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Liderança"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Mobile Specialist",
+        "period": "2020 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em TypeScript, C# e atuação em projetos de mobile.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 32,
+    "name": "Carla Fernandes",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "Porto Alegre",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "DevOps Specialist",
+        "period": "2021 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em Kubernetes, Docker e atuação em projetos de devops.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 33,
+    "name": "Zeca Rocha",
+    "avatar": "https://i.pravatar.cc/150?img=34",
+    "role": "IoT Specialist",
+    "area": "IoT",
+    "city": "Recife",
+    "skills": [
+      "Figma",
+      "Kubernetes",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Empresa B",
+        "title": "IoT Specialist",
+        "period": "2022 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Viagens"
+    ],
+    "bio": "Profissional com experiência em Figma, Kubernetes e atuação em projetos de iot.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 34,
+    "name": "Bruno Ribeiro",
+    "avatar": "https://i.pravatar.cc/150?img=35",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "Porto Alegre",
+    "skills": [
+      "TypeScript",
+      "Python",
+      "C#"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Backend Specialist",
+        "period": "2022 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Culinária"
+    ],
+    "bio": "Profissional com experiência em TypeScript, Python e atuação em projetos de backend.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 35,
+    "name": "Igor Moreira",
+    "avatar": "https://i.pravatar.cc/150?img=36",
+    "role": "IoT Specialist",
+    "area": "IoT",
+    "city": "Brasília",
+    "skills": [
+      "Django",
+      "Rust",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "IoT Specialist",
+        "period": "2019 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Desenho",
+      "Jardinagem"
+    ],
+    "bio": "Profissional com experiência em Django, Rust e atuação em projetos de iot.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 36,
+    "name": "João Santos",
+    "avatar": "https://i.pravatar.cc/150?img=37",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Curitiba",
+    "skills": [
+      "AWS",
+      "Tailwind",
+      "Python"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Mobile Specialist",
+        "period": "2019 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Leitura",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em AWS, Tailwind e atuação em projetos de mobile.",
+    "recommended": 4,
+    "messages": []
+  },
+  {
+    "id": 37,
+    "name": "Olivia Almeida",
+    "avatar": "https://i.pravatar.cc/150?img=38",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "São Paulo",
+    "skills": [
+      "GraphQL",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Data Science Specialist",
+        "period": "2022 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Fotografia"
+    ],
+    "bio": "Profissional com experiência em GraphQL, Figma e atuação em projetos de data science.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 38,
+    "name": "Samuel Rocha",
+    "avatar": "https://i.pravatar.cc/150?img=39",
+    "role": "Product Specialist",
+    "area": "Product",
+    "city": "Brasília",
+    "skills": [
+      "Kubernetes",
+      "Rust",
+      "C#"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Product Specialist",
+        "period": "2021 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Viagens"
+    ],
+    "bio": "Profissional com experiência em Kubernetes, Rust e atuação em projetos de product.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 39,
+    "name": "Sofia Oliveira",
+    "avatar": "https://i.pravatar.cc/150?img=40",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "Campinas",
+    "skills": [
+      "React",
+      "Figma",
+      "C#"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Cybersecurity Specialist",
+        "period": "2018 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Leitura",
+      "Jardinagem"
+    ],
+    "bio": "Profissional com experiência em React, Figma e atuação em projetos de cybersecurity.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 40,
+    "name": "Gabriela Gomes",
+    "avatar": "https://i.pravatar.cc/150?img=41",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Salvador",
+    "skills": [
+      "Figma",
+      "SQL",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Mobile Specialist",
+        "period": "2017 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em Figma, SQL e atuação em projetos de mobile.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 41,
+    "name": "Bruno Dias",
+    "avatar": "https://i.pravatar.cc/150?img=42",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "São Paulo",
+    "skills": [
+      "Docker",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Data Science Specialist",
+        "period": "2022 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em Docker, React e atuação em projetos de data science.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 42,
+    "name": "Vitor Carvalho",
+    "avatar": "https://i.pravatar.cc/150?img=43",
+    "role": "Fullstack Specialist",
+    "area": "Fullstack",
+    "city": "Rio de Janeiro",
+    "skills": [
+      "NoSQL",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Fullstack Specialist",
+        "period": "2021 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Viagens",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em NoSQL, Node.js e atuação em projetos de fullstack.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 43,
+    "name": "Zeca Dias",
+    "avatar": "https://i.pravatar.cc/150?img=44",
+    "role": "Product Specialist",
+    "area": "Product",
+    "city": "Curitiba",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "Azure"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Trabalho em equipe"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Product Specialist",
+        "period": "2022 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em Node.js, JavaScript e atuação em projetos de product.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 44,
+    "name": "Diego Almeida",
+    "avatar": "https://i.pravatar.cc/150?img=45",
+    "role": "IoT Specialist",
+    "area": "IoT",
+    "city": "Salvador",
+    "skills": [
+      "Python",
+      "GraphQL",
+      "Django"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "IoT Specialist",
+        "period": "2019 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Desenho"
+    ],
+    "bio": "Profissional com experiência em Python, GraphQL e atuação em projetos de iot.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 45,
+    "name": "Karina Fernandes",
+    "avatar": "https://i.pravatar.cc/150?img=46",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "Porto Alegre",
+    "skills": [
+      "SQL",
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Backend Specialist",
+        "period": "2019 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Viagens"
+    ],
+    "bio": "Profissional com experiência em SQL, TypeScript e atuação em projetos de backend.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 46,
+    "name": "Pedro Santos",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "Salvador",
+    "skills": [
+      "AWS",
+      "SQL",
+      "Go"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "DevOps Specialist",
+        "period": "2019 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Corrida"
+    ],
+    "bio": "Profissional com experiência em AWS, SQL e atuação em projetos de devops.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 47,
+    "name": "Zeca Gomes",
+    "avatar": "https://i.pravatar.cc/150?img=48",
+    "role": "IoT Specialist",
+    "area": "IoT",
+    "city": "Fortaleza",
+    "skills": [
+      "React",
+      "Tailwind",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "IoT Specialist",
+        "period": "2020 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Culinária"
+    ],
+    "bio": "Profissional com experiência em React, Tailwind e atuação em projetos de iot.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 48,
+    "name": "Luna Ribeiro",
+    "avatar": "https://i.pravatar.cc/150?img=49",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Salvador",
+    "skills": [
+      "TypeScript",
+      "SQL",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Mobile Specialist",
+        "period": "2022 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Culinária"
+    ],
+    "bio": "Profissional com experiência em TypeScript, SQL e atuação em projetos de mobile.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 49,
+    "name": "Gabriela Rocha",
+    "avatar": "https://i.pravatar.cc/150?img=50",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "Fortaleza",
+    "skills": [
+      "Go",
+      "NoSQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Trabalho em equipe"
+    ],
+    "education": "Engenharia de Software",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "DevOps Specialist",
+        "period": "2016 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Culinária"
+    ],
+    "bio": "Profissional com experiência em Go, NoSQL e atuação em projetos de devops.",
+    "recommended": 1,
+    "messages": []
+  },
+  {
+    "id": 50,
+    "name": "Isabela Silva",
+    "avatar": "https://i.pravatar.cc/150?img=51",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "São Paulo",
+    "skills": [
+      "NoSQL",
+      "Python",
+      "Rust"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Cybersecurity Specialist",
+        "period": "2018 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Jardinagem"
+    ],
+    "bio": "Profissional com experiência em NoSQL, Python e atuação em projetos de cybersecurity.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 51,
+    "name": "Isabela Fernandes",
+    "avatar": "https://i.pravatar.cc/150?img=52",
+    "role": "Backend Specialist",
+    "area": "Backend",
+    "city": "Fortaleza",
+    "skills": [
+      "Tailwind",
+      "Figma",
+      "Rust"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Startup X",
+        "title": "Backend Specialist",
+        "period": "2016 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Leitura",
+      "Cinema"
+    ],
+    "bio": "Profissional com experiência em Tailwind, Figma e atuação em projetos de backend.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 52,
+    "name": "Samuel Dias",
+    "avatar": "https://i.pravatar.cc/150?img=53",
+    "role": "Product Specialist",
+    "area": "Product",
+    "city": "Recife",
+    "skills": [
+      "Kubernetes",
+      "Go",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Product Specialist",
+        "period": "2020 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Viagens"
+    ],
+    "bio": "Profissional com experiência em Kubernetes, Go e atuação em projetos de product.",
+    "recommended": 4,
+    "messages": []
+  },
+  {
+    "id": 53,
+    "name": "Luna Souza",
+    "avatar": "https://i.pravatar.cc/150?img=54",
+    "role": "Data Science Specialist",
+    "area": "Data Science",
+    "city": "Porto Alegre",
+    "skills": [
+      "SQL",
+      "Tailwind",
+      "Django"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Data Science Specialist",
+        "period": "2019 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Corrida",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em SQL, Tailwind e atuação em projetos de data science.",
+    "recommended": 3,
+    "messages": []
+  },
+  {
+    "id": 54,
+    "name": "João Silva",
+    "avatar": "https://i.pravatar.cc/150?img=55",
+    "role": "DevOps Specialist",
+    "area": "DevOps",
+    "city": "Porto Alegre",
+    "skills": [
+      "NoSQL",
+      "TypeScript",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Trabalho em equipe"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "DevOps Specialist",
+        "period": "2020 - 2021",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Games"
+    ],
+    "bio": "Profissional com experiência em NoSQL, TypeScript e atuação em projetos de devops.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 55,
+    "name": "Eduarda Moreira",
+    "avatar": "https://i.pravatar.cc/150?img=56",
+    "role": "Fullstack Specialist",
+    "area": "Fullstack",
+    "city": "Curitiba",
+    "skills": [
+      "Tailwind",
+      "JavaScript",
+      "Django"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "education": "Sistemas de Informação",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Fullstack Specialist",
+        "period": "2019 - 2022",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Cinema",
+      "Música"
+    ],
+    "bio": "Profissional com experiência em Tailwind, JavaScript e atuação em projetos de fullstack.",
+    "recommended": 5,
+    "messages": []
+  },
+  {
+    "id": 56,
+    "name": "Mariana Pereira",
+    "avatar": "https://i.pravatar.cc/150?img=57",
+    "role": "Cybersecurity Specialist",
+    "area": "Cybersecurity",
+    "city": "Brasília",
+    "skills": [
+      "Rust",
+      "TypeScript",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "education": "Bacharelado em Ciência da Computação",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Cybersecurity Specialist",
+        "period": "2017 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Culinária",
+      "Música"
+    ],
+    "bio": "Profissional com experiência em Rust, TypeScript e atuação em projetos de cybersecurity.",
+    "recommended": 4,
+    "messages": []
+  },
+  {
+    "id": 57,
+    "name": "Ana Dias",
+    "avatar": "https://i.pravatar.cc/150?img=58",
+    "role": "Product Specialist",
+    "area": "Product",
+    "city": "Curitiba",
+    "skills": [
+      "JavaScript",
+      "Django",
+      "Rust"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "Product Specialist",
+        "period": "2021 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em JavaScript, Django e atuação em projetos de product.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 58,
+    "name": "Pedro Costa",
+    "avatar": "https://i.pravatar.cc/150?img=59",
+    "role": "Mobile Specialist",
+    "area": "Mobile",
+    "city": "Recife",
+    "skills": [
+      "AWS",
+      "Node.js",
+      "Django"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Empresa A",
+        "title": "Mobile Specialist",
+        "period": "2019 - 2020",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Música",
+      "Viagens"
+    ],
+    "bio": "Profissional com experiência em AWS, Node.js e atuação em projetos de mobile.",
+    "recommended": 2,
+    "messages": []
+  },
+  {
+    "id": 59,
+    "name": "Isabela Costa",
+    "avatar": "https://i.pravatar.cc/150?img=60",
+    "role": "UX/UI Specialist",
+    "area": "UX/UI",
+    "city": "Rio de Janeiro",
+    "skills": [
+      "Go",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "education": "Mestrado em Data Science",
+    "experience": [
+      {
+        "company": "Corp Y",
+        "title": "UX/UI Specialist",
+        "period": "2021 - 2023",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Desenho",
+      "Culinária"
+    ],
+    "bio": "Profissional com experiência em Go, React e atuação em projetos de ux/ui.",
+    "recommended": 0,
+    "messages": []
+  },
+  {
+    "id": 60,
+    "name": "Gabriela Pereira",
+    "avatar": "https://i.pravatar.cc/150?img=61",
+    "role": "Fullstack Specialist",
+    "area": "Fullstack",
+    "city": "Brasília",
+    "skills": [
+      "NoSQL",
+      "TypeScript",
+      "Rust"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "education": "Design Digital",
+    "experience": [
+      {
+        "company": "Instituição Z",
+        "title": "Fullstack Specialist",
+        "period": "2016 - 2024",
+        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+      }
+    ],
+    "hobbies": [
+      "Games",
+      "Leitura"
+    ],
+    "bio": "Profissional com experiência em NoSQL, TypeScript e atuação em projetos de fullstack.",
+    "recommended": 3,
+    "messages": []
+  }
+]

@@ -512,7 +512,7 @@
   {
     "id": 16,
     "name": "Isabela Gomes",
-    "avatar": "https://i.pravatar.cc/150?img=17",
+    "avatar": "https://i.pravatar.cc/150?img=31",
     "role": "Backend Specialist",
     "area": "Backend",
     "city": "Porto Alegre",
@@ -614,7 +614,7 @@
   {
     "id": 19,
     "name": "Vitor Souza",
-    "avatar": "https://i.pravatar.cc/150?img=20",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkFv7JQk1TBaXcsAbWsOzpnt6CNXUGQuG6xw&s",
     "role": "UX/UI Specialist",
     "area": "UX/UI",
     "city": "Porto Alegre",
@@ -750,8 +750,8 @@
   {
     "id": 23,
     "name": "Wesley Almeida",
-    "avatar": "https://i.pravatar.cc/150?img=24",
-    "role": "Frontend Specialist",
+    "avatar": "data:image/jpeg;base64,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",
+    "role": "Frontend Specialist", 
     "area": "Frontend",
     "city": "Curitiba",
     "skills": [
@@ -784,7 +784,7 @@
   {
     "id": 24,
     "name": "Renato Rocha",
-    "avatar": "https://i.pravatar.cc/150?img=25",
+    "avatar": "https://plus.unsplash.com/premium_photo-1696942354036-7055974c7cc7?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8",
     "role": "Cybersecurity Specialist",
     "area": "Cybersecurity",
     "city": "Belo Horizonte",
@@ -818,7 +818,7 @@
   {
     "id": 25,
     "name": "Diego Costa",
-    "avatar": "https://i.pravatar.cc/150?img=26",
+    "avatar": "https://images.pexels.com/photos/2955376/pexels-photo-2955376.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "role": "UX/UI Specialist",
     "area": "UX/UI",
     "city": "Brasília",
@@ -852,7 +852,7 @@
   {
     "id": 26,
     "name": "Felipe Dias",
-    "avatar": "https://i.pravatar.cc/150?img=27",
+    "avatar": "https://i.pravatar.cc/150?img=33",
     "role": "UX/UI Specialist",
     "area": "UX/UI",
     "city": "Rio de Janeiro",
@@ -920,7 +920,7 @@
   {
     "id": 28,
     "name": "Diego Carvalho",
-    "avatar": "https://i.pravatar.cc/150?img=29",
+    "avatar": "https://images.pexels.com/photos/15113248/pexels-photo-15113248/free-photo-of-homem-de-terno-posando.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "role": "Mobile Specialist",
     "area": "Mobile",
     "city": "Recife",
@@ -988,7 +988,7 @@
   {
     "id": 30,
     "name": "João Ribeiro",
-    "avatar": "https://i.pravatar.cc/150?img=31",
+    "avatar": "https://media.istockphoto.com/id/2192499195/pt/foto/studio-portrait-of-happy-multiracial-mid-adult-man-wearing-brown-shirt-toothy-smile.jpg?s=612x612&w=0&k=20&c=rGM0YORpqJg5w0RsEeUI-ye1DrGZO9hry-iNdUqoE5o=",
     "role": "Data Science Specialist",
     "area": "Data Science",
     "city": "Belo Horizonte",
@@ -1056,7 +1056,7 @@
   {
     "id": 32,
     "name": "Carla Fernandes",
-    "avatar": "https://i.pravatar.cc/150?img=33",
+    "avatar": "https://i.pravatar.cc/150?img=27",
     "role": "DevOps Specialist",
     "area": "DevOps",
     "city": "Porto Alegre",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": 33,
-    "name": "Zeca Rocha",
+    "name": "Nathalia Silva",
     "avatar": "https://i.pravatar.cc/150?img=34",
     "role": "IoT Specialist",
     "area": "IoT",
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 34,
-    "name": "Bruno Ribeiro",
+    "name": "Bruna Ribeiro",
     "avatar": "https://i.pravatar.cc/150?img=35",
     "role": "Backend Specialist",
     "area": "Backend",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": 35,
-    "name": "Igor Moreira",
+    "name": "Ana Julia",
     "avatar": "https://i.pravatar.cc/150?img=36",
     "role": "IoT Specialist",
     "area": "IoT",
@@ -1192,7 +1192,7 @@
   {
     "id": 36,
     "name": "João Santos",
-    "avatar": "https://i.pravatar.cc/150?img=37",
+    "avatar": "https://i.pravatar.cc/150?img=51",
     "role": "Mobile Specialist",
     "area": "Mobile",
     "city": "Curitiba",
@@ -1260,7 +1260,7 @@
   {
     "id": 38,
     "name": "Samuel Rocha",
-    "avatar": "https://i.pravatar.cc/150?img=39",
+    "avatar": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "role": "Product Specialist",
     "area": "Product",
     "city": "Brasília",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 41,
-    "name": "Bruno Dias",
+    "name": "Bruna Souza",
     "avatar": "https://i.pravatar.cc/150?img=42",
     "role": "Data Science Specialist",
     "area": "Data Science",

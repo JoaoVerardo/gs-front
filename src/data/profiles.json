@@ -505,7 +505,7 @@
       "Games",
       "Cinema"
     ],
-    "bio": "Profissional com experiência em JavaScript, Figma e atuação em projetos de backend.",
+    "bio": "Experiência em JavaScript, Figma e atuação em projetos de backend.",
     "recommended": 1,
     "messages": []
   },
@@ -1395,7 +1395,7 @@
   },
   {
     "id": 42,
-    "name": "Vitor Carvalho",
+    "name": "Vitoria Cardoso",
     "avatar": "https://i.pravatar.cc/150?img=43",
     "role": "Fullstack Specialist",
     "area": "Fullstack",
@@ -1423,13 +1423,13 @@
       "Viagens",
       "Games"
     ],
-    "bio": "Profissional com experiência em NoSQL, Node.js e atuação em projetos de fullstack.",
+    "bio": "Gosto de trabalhar com NoSQL, Node.js e atuação em projetos de fullstack.",
     "recommended": 0,
     "messages": []
   },
   {
     "id": 43,
-    "name": "Zeca Dias",
+    "name": "Monique de lima",
     "avatar": "https://i.pravatar.cc/150?img=44",
     "role": "Product Specialist",
     "area": "Product",
@@ -1463,7 +1463,7 @@
   },
   {
     "id": 44,
-    "name": "Diego Almeida",
+    "name": "Diana Alcatraz",
     "avatar": "https://i.pravatar.cc/150?img=45",
     "role": "IoT Specialist",
     "area": "IoT",
@@ -1491,14 +1491,14 @@
       "Cinema",
       "Desenho"
     ],
-    "bio": "Profissional com experiência em Python, GraphQL e atuação em projetos de iot.",
+    "bio": "Tenho experiência em Python, GraphQL e atuação em projetos de iot.",
     "recommended": 2,
     "messages": []
   },
   {
     "id": 45,
     "name": "Karina Fernandes",
-    "avatar": "https://i.pravatar.cc/150?img=46",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDIV6Q1cNfEMDzTTqB767K-xsWhlGMQ5i7A&s",
     "role": "Backend Specialist",
     "area": "Backend",
     "city": "Porto Alegre",
@@ -1531,7 +1531,7 @@
   },
   {
     "id": 46,
-    "name": "Pedro Santos",
+    "name": "Leticia Santos",
     "avatar": "https://i.pravatar.cc/150?img=47",
     "role": "DevOps Specialist",
     "area": "DevOps",
@@ -1565,7 +1565,7 @@
   },
   {
     "id": 47,
-    "name": "Zeca Gomes",
+    "name": "Julia Gomes",
     "avatar": "https://i.pravatar.cc/150?img=48",
     "role": "IoT Specialist",
     "area": "IoT",
@@ -1599,7 +1599,7 @@
   },
   {
     "id": 48,
-    "name": "Luna Ribeiro",
+    "name": "Luiza Ribeiro",
     "avatar": "https://i.pravatar.cc/150?img=49",
     "role": "Mobile Specialist",
     "area": "Mobile",
@@ -1634,7 +1634,7 @@
   {
     "id": 49,
     "name": "Gabriela Rocha",
-    "avatar": "https://i.pravatar.cc/150?img=50",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHmogvaOPemdHW4MaKxbZ8uETHgiN4ma_4w&s",
     "role": "DevOps Specialist",
     "area": "DevOps",
     "city": "Fortaleza",
@@ -1668,7 +1668,7 @@
   {
     "id": 50,
     "name": "Isabela Silva",
-    "avatar": "https://i.pravatar.cc/150?img=51",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYUZzY7_N7i2cs6cwwYnZbNMcGt1F_mEibA&s",
     "role": "Cybersecurity Specialist",
     "area": "Cybersecurity",
     "city": "São Paulo",
@@ -1701,7 +1701,7 @@
   },
   {
     "id": 51,
-    "name": "Isabela Fernandes",
+    "name": "Hugo Fernandes",
     "avatar": "https://i.pravatar.cc/150?img=52",
     "role": "Backend Specialist",
     "area": "Backend",
@@ -1769,7 +1769,7 @@
   },
   {
     "id": 53,
-    "name": "Luna Souza",
+    "name": "Gustavo Santos",
     "avatar": "https://i.pravatar.cc/150?img=54",
     "role": "Data Science Specialist",
     "area": "Data Science",
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 55,
-    "name": "Eduarda Moreira",
+    "name": "Marcelo Silva",
     "avatar": "https://i.pravatar.cc/150?img=56",
     "role": "Fullstack Specialist",
     "area": "Fullstack",
@@ -1871,7 +1871,7 @@
   },
   {
     "id": 56,
-    "name": "Mariana Pereira",
+    "name": "Pedro Marcos",
     "avatar": "https://i.pravatar.cc/150?img=57",
     "role": "Cybersecurity Specialist",
     "area": "Cybersecurity",
@@ -1906,7 +1906,7 @@
   {
     "id": 57,
     "name": "Ana Dias",
-    "avatar": "https://i.pravatar.cc/150?img=58",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONd6gOOqj24zwStnlXHqxllE2Efm1vqLlyQ&s",
     "role": "Product Specialist",
     "area": "Product",
     "city": "Curitiba",
@@ -1973,7 +1973,7 @@
   },
   {
     "id": 59,
-    "name": "Isabela Costa",
+    "name": "Luis Junior",
     "avatar": "https://i.pravatar.cc/150?img=60",
     "role": "UX/UI Specialist",
     "area": "UX/UI",
@@ -2008,7 +2008,7 @@
   {
     "id": 60,
     "name": "Gabriela Pereira",
-    "avatar": "https://i.pravatar.cc/150?img=61",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJCaG4Qd9z4SA16JwUepkamuhfZTVNw_3pw&s",
     "role": "Fullstack Specialist",
     "area": "Fullstack",
     "city": "Brasília",

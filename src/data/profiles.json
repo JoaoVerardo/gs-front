@@ -90,14 +90,14 @@
         "company": "Instituição Z",
         "title": "Backend Specialist",
         "period": "2016 - 2023",
-        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+        "description": "Especialista em APIs escaláveis. Foco em performance e boas práticas."
       }
     ],
     "hobbies": [
       "Música",
       "Fotografia"
     ],
-    "bio": "Profissional com experiência em Figma, Node.js e atuação em projetos de backend.",
+    "bio": "Código limpo, mente limpa.",
     "recommended": 0,
     "messages": []
   },
@@ -131,7 +131,7 @@
       "Corrida",
       "Games"
     ],
-    "bio": "Profissional com experiência em Docker, Tailwind e atuação em projetos de mobile.",
+    "bio": "Gosto de trabalhar em Docker, Tailwind e atuação em projetos de mobile.",
     "recommended": 5,
     "messages": []
   },
@@ -165,7 +165,7 @@
       "Cinema",
       "Leitura"
     ],
-    "bio": "Profissional com experiência em Azure, Docker e atuação em projetos de mobile.",
+    "bio": "Experiência em Azure, Docker e atuação em projetos de mobile.",
     "recommended": 3,
     "messages": []
   },
@@ -192,14 +192,14 @@
         "company": "Empresa B",
         "title": "Data Science Specialist",
         "period": "2020 - 2022",
-        "description": "Atuação em desenvolvimento de soluções e integração de sistemas."
+        "description": "experiência em AWS, JavaScript e atuação em projetos de data science."
       }
     ],
     "hobbies": [
       "Viagens",
       "Música"
     ],
-    "bio": "Profissional com experiência em AWS, JavaScript e atuação em projetos de data science.",
+    "bio": "Prever o futuro é entender o passado.",
     "recommended": 1,
     "messages": []
   },
@@ -267,7 +267,7 @@
       "Viagens",
       "Corrida"
     ],
-    "bio": "Profissional com experiência em Tailwind, JavaScript e atuação em projetos de iot.",
+    "bio": "Conectando o físico ao digital, com experiência em Tailwind, JavaScript e tive atuação em projetos de iot.",
     "recommended": 4,
     "messages": []
   },
@@ -301,7 +301,7 @@
       "Leitura",
       "Jardinagem"
     ],
-    "bio": "Profissional com experiência em C#, SQL e atuação em projetos de backend.",
+    "bio": "Estrutura sólida, código sólido, tenho experiencia em C#, SQL e atuação em projetos de backend.",
     "recommended": 4,
     "messages": []
   },

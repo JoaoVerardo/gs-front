@@ -48,3 +48,4 @@ Autor do Projeto
 Alunos João Victor Santos Verardo rm:563700
 Sofia Bomeny rm:563270
 Vitor Bugallo rm: 562208
+IMPORTANTE: por algum motivo não consegui realizar os commits no main então subi na master
